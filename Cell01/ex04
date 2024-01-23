@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<title>Básico</title>
+	<style>
+		body {
+			background-color: pink;
+		}
+		h1 {
+			color: white;
+			text-align: center;
+		}
+		img {
+			width: 100%;
+			height: 500px;
+		}
+		a {
+			font-size: 1.0rem;
+			margin-top: 20px;
+		}
+		.box {
+			display: flex;
+			flex: 2;
+			flex-direction: column;
+			align-items: center;
+			margin: 50px 10% 50px 10%
+		}
+		.footer {
+			display: flex;
+			flex-direction: row;
+			justify-content: end;
+			font-family: monospace;
+			font-size: 25px;
+		}
+	</style>
+	<br></br>
+</head>
+<body>
+	<h1><b>Alternative!</h1></b>
+		<br></br>
+		<div style="display: flex; justify-content: center">
+			<div class="box">
+				<img
+					src="tripp.jpeg"
+				>
+				<a href="Tripp NYC" style="color: black">
+					<b>https://trippnyc.com/</b>
+				</a>
+				</img>
+			</div>
+			<div class="box">
+				<img
+					src="banned.jpeg"
+				>
+				<a href="Banned Alternative" style= "color: black">
+					<b>https://bannedalt.eu/</b>
+				</a>
+			</div>
+		</div>
+	</h1>
+		<div style="display: flex; justify-content: right">
+			<i><p>© Brojas 2024</p></i>
+		</div>
+</body>
+</html>

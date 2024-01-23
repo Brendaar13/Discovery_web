@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<div style="display:flex; justify-content: center">
+			<h1>Piscine Web<h1>
+		</div>
+		<br>
+	</head>
+	<body>
+		<div style="display:flex; justify-content: center">
+			<a href= "https://www.youtube.com/watch?v=INscMGmhmX4"><img
+			src="ania.jpeg"
+			height="300"></a>
+			<img
+				 src="Kuromi.jpeg"
+				 width="230"
+				 height="270"
+			>
+			</div>
+
+</body>
+</html>
