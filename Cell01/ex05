@@ -1,3 +1,40 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
+	<style>
+		.box {
+			height: 200px;
+			font-weight: 500;
+			display: flex;
+			flex: 1;
+			align-items: center;
+			border: 1px solid slategray;
+		}
+		.container {
+			margin: 20px 10% 20px 10%
+		}
+	</style>
+</head>
+<body>
+	<div class="container">
+		<hr>
+		<div style="display: flex;">
+			<div class="box"
+				style=
+				"justify-content: center;
+				color: white;
+				background-color: Powderblue">
+				<b><p> 1989</p></b>
+				</div>
+			<div class="box"
+				style=
+				"display: flex;
+				justify-content: center;
+				color: white;
+				background-color: plum">
+				<p><b>Lover</p></b>
+			</div>
+		</div>
+	</div>
+</body>
+</html>
