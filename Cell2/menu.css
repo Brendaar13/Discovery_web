@@ -1,0 +1,19 @@
+body {
+	background-color: black;
+}
+h1 {
+	text-align: center;
+	color: white
+}
+img {
+	display: flex;
+	object-fit: cover;
+}
+.container {
+	margin: 20px 10% 20px 10%;
+}
+.content {
+	display: flex;
+	gap: 15px;
+	height: 240px;
+}

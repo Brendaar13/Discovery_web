@@ -1,0 +1,11 @@
+.box {
+    height: 1700px;
+    font-weight: 500;
+    display: flex;
+    flex: 1;
+    align-items: center;
+    border: 1px solid slategray;
+}
+.container {
+    margin: -5px -10% -5px -10%
+}
